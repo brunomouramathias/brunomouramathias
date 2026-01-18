@@ -3,7 +3,7 @@
 🎓 Estudante de **Ciência da Computação**  
 💻 Apaixonado por desenvolvimento de software, algoritmos e soluções criativas  
 🌱 Atualmente aprendendo: C#, .NET, Estruturas de Dados, e mais!  
-📍 Baseado em [Medianeira/Paraná]
+📍 Residindo em [Medianeira/Paraná]
 
 ---
 
