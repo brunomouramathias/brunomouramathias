@@ -1,9 +1,9 @@
-# 👋 Olá! Eu sou [Bruno Moura]
+# 👋 Olá! Eu sou Bruno Moura
 
 🎓 Estudante de **Ciência da Computação**  
 💻 Apaixonado por desenvolvimento de software, algoritmos e soluções criativas  
 🌱 Atualmente aprendendo: C#, .NET, Estruturas de Dados, e mais!  
-📍 Residindo em [Medianeira/Paraná]
+📍 Residindo em Medianeira/Paraná
 
 ---
 
@@ -94,7 +94,7 @@ Gosto de resolver problemas através da programação e estou sempre buscando ap
 
 - Email: [brunomouramfs@gmail.com]  
 - LinkedIn: [www.linkedin.com/in/BrunoMouraMathiasFernandesSimão]  
-- GitHub: [https://github.com/brunomouramathais]
+- GitHub: [https://github.com/brunomouramathias]
 ---
 
 ⭐ Obrigado por visitar meu perfil!
